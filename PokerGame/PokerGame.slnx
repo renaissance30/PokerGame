@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PokerGmae.vcxproj" Id="5a65e65d-8ae6-4f50-a5c0-88463093ce77" />
+</Solution>
